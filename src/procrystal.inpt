@@ -1,0 +1,24 @@
+Procrystal Input File
+----------------------------------
+Procrystal Properties
+tri          lattice type (sq/tri/snub/isosnub/trihex/hex)
+3           node coordination
+pattern2      link orientations (random/pattern1/pattern2)
+1 1 0 0 1 0     pattern code
+8         lattice dimension
+----------------------------------
+Monte Carlo Parameters
+0           random seed
+0.0         temperature
+1          samples
+----------------------------------
+Output
+./example   output prefix
+1          write samples
+1           calculate environments
+0           calculate rdfs
+0.02        RDF delta
+0           calculate sk
+0.01        sk delta
+100           n max
+----------------------------------
