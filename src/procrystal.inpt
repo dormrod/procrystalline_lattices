@@ -13,7 +13,7 @@ Monte Carlo Parameters
 1          samples
 ----------------------------------
 Output
-./example   output prefix
+./output/example   output prefix
 1          write samples
 1           calculate environments
 0           calculate rdfs
