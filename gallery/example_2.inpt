@@ -2,8 +2,8 @@ Procrystal Input File
 ----------------------------------
 Procrystal Properties
 tri          lattice type (sq/tri/snub/isosnub/trihex/hex)
-3           node coordination
-pattern2      link orientations (random/pattern1/pattern2)
+5           node coordination
+random      link orientations (random/pattern1/pattern2)
 1 1 0 0 1 0     pattern code
 32         lattice dimension
 ----------------------------------
